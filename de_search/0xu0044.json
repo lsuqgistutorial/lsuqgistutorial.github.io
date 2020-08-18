@@ -1,0 +1,11 @@
+[
+	{ "s": "DATA", "p": [2] },
+	{ "s": "DEFAULT", "p": [7] },
+	{ "s": "DESCRIPTION", "p": [4] },
+	{ "s": "DESTINATION", "p": [7] },
+	{ "s": "DISPLAYED", "p": [5, 4] },
+	{ "s": "DISPLAYING", "p": [2] },
+	{ "s": "DONE", "p": [8, 5] },
+	{ "s": "DOWNLOAD", "p": [4, 3, 5, 2] },
+	{ "s": "DOWNLOADED", "p": [5] }
+]

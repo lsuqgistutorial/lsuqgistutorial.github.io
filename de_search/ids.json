@@ -1,0 +1,11 @@
+{
+	"1": ["Title", "index.htm"],
+	"2": ["Getting Started", "getting_started.htm"],
+	"3": ["QGIS Download ", "qgis_download_.htm"],
+	"4": ["Download Options ", "download_options_.htm"],
+	"5": ["QGIS Installation Process", "qgis_installation_process.htm"],
+	"6": ["Read and Agree with QGIS Licesne Agreement ", "read_and_agree_with_qgis_licesne_agreement_.htm"],
+	"7": ["Destination Folder Selection", "destination_folder_selection.htm"],
+	"8": ["QGIS Installation Components", "qgis_installation_components.htm"],
+	"9": ["Installation Final Window", "installation_final_window.htm"]
+}

@@ -1,0 +1,15 @@
+[
+	{ "s": "CAN", "p": [8] },
+	{ "s": "CHANGE", "p": [7] },
+	{ "s": "CHOOSE", "p": [4, 7, 3] },
+	{ "s": "CHOOSEN", "p": [8, 4] },
+	{ "s": "CLICK", "p": [9, 8, 7, 6, 5] },
+	{ "s": "CLICKAND", "p": [7] },
+	{ "s": "CLOSE", "p": [9] },
+	{ "s": "COLLECTED", "p": [2] },
+	{ "s": "COMPLETE", "p": [9] },
+	{ "s": "COMPONENTS", "p": [8] },
+	{ "s": "COMPONEST", "p": [8] },
+	{ "s": "COMPUTER", "p": [9] },
+	{ "s": "CONTINUE", "p": [7, 6, 5] }
+]

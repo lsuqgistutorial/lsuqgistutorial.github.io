@@ -1,0 +1,21 @@
+[
+	{ "s": "SAMPLING", "p": [2] },
+	{ "s": "SAYS", "p": [9, 4] },
+	{ "s": "SECTION", "p": [2] },
+	{ "s": "SELECT", "p": [8] },
+	{ "s": "SELECTION", "p": [7] },
+	{ "s": "SENSORS", "p": [2] },
+	{ "s": "SETTING", "p": [7] },
+	{ "s": "SHOULD", "p": [5] },
+	{ "s": "SHOWN", "p": [5] },
+	{ "s": "SIMILIAR", "p": [4] },
+	{ "s": "SOFTWARE", "p": [8] },
+	{ "s": "SOURCE", "p": [2] },
+	{ "s": "STABBLE", "p": [4] },
+	{ "s": "START", "p": [5] },
+	{ "s": "STARTED", "p": [2] },
+	{ "s": "STEP", "p": [7] },
+	{ "s": "STEPS", "p": [5] },
+	{ "s": "SUCH", "p": [5, 2] },
+	{ "s": "SYSTEM", "p": [3, 2] }
+]

@@ -1,0 +1,14 @@
+[
+	{ "s": "I", "p": [6] },
+	{ "s": "IF", "p": [7, 8] },
+	{ "s": "IN", "p": [5, 4, 2] },
+	{ "s": "INFORMATION", "p": [2] },
+	{ "s": "INSTALL", "p": [8] },
+	{ "s": "INSTALLATIN", "p": [6] },
+	{ "s": "INSTALLATION", "p": [5, 9, 8, 7] },
+	{ "s": "INSTALLED", "p": [8, 9] },
+	{ "s": "INTALLATION", "p": [2] },
+	{ "s": "INTERFACE", "p": [2] },
+	{ "s": "IS", "p": [2, 9, 8, 5] },
+	{ "s": "IT", "p": [2] }
+]
