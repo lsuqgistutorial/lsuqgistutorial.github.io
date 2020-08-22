@@ -1142,10 +1142,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Title","Getting Started","QGIS Download ","QGIS Installation Process","Download Options ","Read and Agree with QGIS Licesne Agreement ","Destination Folder Selection","QGIS Installation Components","Installation Final Window"],
-    DREX_NODE_LINKS: ["index.htm","getting_started.htm","qgis_download_.htm","qgis_installation_process.htm","download_options_.htm","read_and_agree_with_qgis_licesne_agreement_.htm","destination_folder_selection.htm","qgis_installation_components.htm","installation_final_window.htm"],
-    DREX_NODE_CHILD_START: [1,2,4,5,9,9,9,9,9],
-    DREX_NODE_CHILD_END: [2,4,5,9,9,9,9,9,9],
+    DREX_NODE_NAMES: ["Title","Getting Started","","QGIS Download ","QGIS Installation Process","QGIS Window - What is in there?","Adding Google Maps Backgroud Layer","Download Options ","Read and Agree with QGIS Licesne Agreement ","Destination Folder Selection","QGIS Installation Components","Installation Final Window","Browser Panel Not Showing Fix","Set New Connection","XYZ Connection window"],
+    DREX_NODE_LINKS: ["index.htm","getting_started.htm","_.htm","qgis_download_.htm","qgis_installation_process.htm","qgis_window___what_is_in_there_.htm","adding_google_maps_backgroud_layer.htm","download_options_.htm","read_and_agree_with_qgis_licesne_agreement_.htm","destination_folder_selection.htm","qgis_installation_components.htm","installation_final_window.htm","browser_panel_not_showing_fix.htm","set_new_connection.htm","xyz_connection_window.htm"],
+    DREX_NODE_CHILD_START: [1,3,7,7,8,12,12,15,15,15,15,15,15,15,15],
+    DREX_NODE_CHILD_END: [3,7,7,8,12,12,15,15,15,15,15,15,15,15,15],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 

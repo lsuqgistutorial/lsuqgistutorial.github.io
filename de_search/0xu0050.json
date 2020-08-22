@@ -1,11 +1,22 @@
 [
+	{ "s": "P", "p": [14] },
+	{ "s": "P&HL", "p": [14] },
 	{ "s": "PA", "p": [2] },
+	{ "s": "PAGE", "p": [11] },
+	{ "s": "PANEL", "p": [12, 10, 14, 11] },
+	{ "s": "PERFORM", "p": [11] },
 	{ "s": "PERFORME", "p": [8] },
+	{ "s": "POP", "p": [14] },
+	{ "s": "POPUP", "p": [13, 12] },
 	{ "s": "POWERFULL", "p": [2] },
 	{ "s": "PRECISION", "p": [1, 2] },
 	{ "s": "PRESENT", "p": [2] },
+	{ "s": "PRESENTED", "p": [12] },
+	{ "s": "PREVIOUS", "p": [14] },
+	{ "s": "PRINTABLE", "p": [10] },
 	{ "s": "PROCESS", "p": [5, 8] },
 	{ "s": "PROCESSING", "p": [2] },
 	{ "s": "PROFESSIONAL", "p": [2] },
+	{ "s": "PROJECT", "p": [10] },
 	{ "s": "PURPOSES", "p": [1] }
 ]

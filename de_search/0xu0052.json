@@ -1,8 +1,16 @@
 [
+	{ "s": "R", "p": [14] },
+	{ "s": "R&HL", "p": [14] },
 	{ "s": "READ", "p": [6] },
 	{ "s": "READING", "p": [6] },
+	{ "s": "REFERENCE", "p": [10] },
+	{ "s": "RELATED", "p": [14] },
 	{ "s": "RELEASE", "p": [4] },
 	{ "s": "REQUIRES", "p": [5] },
+	{ "s": "RESULT", "p": [12] },
 	{ "s": "RICHER", "p": [4] },
+	{ "s": "RIGHT", "p": [11, 13, 12] },
+	{ "s": "ROADMAP", "p": [14] },
+	{ "s": "ROTATION", "p": [10] },
 	{ "s": "RUN", "p": [5] }
 ]

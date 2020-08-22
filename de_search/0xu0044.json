@@ -1,11 +1,18 @@
 [
-	{ "s": "DATA", "p": [2] },
+	{ "s": "DATA", "p": [10, 2] },
+	{ "s": "DEEPER", "p": [10] },
 	{ "s": "DEFAULT", "p": [7] },
-	{ "s": "DESCRIPTION", "p": [4] },
+	{ "s": "DESCRIPTION", "p": [15, 4] },
 	{ "s": "DESTINATION", "p": [7] },
-	{ "s": "DISPLAYED", "p": [5, 4] },
+	{ "s": "DID", "p": [13] },
+	{ "s": "DIFFERENT", "p": [14] },
+	{ "s": "DIGITIZING", "p": [10] },
+	{ "s": "DISPLAYED", "p": [14, 5, 4] },
 	{ "s": "DISPLAYING", "p": [2] },
+	{ "s": "DON", "p": [15] },
+	{ "s": "DON'T", "p": [15] },
 	{ "s": "DONE", "p": [8, 5] },
+	{ "s": "DOUBLE", "p": [14] },
 	{ "s": "DOWNLOAD", "p": [4, 3, 5, 2] },
 	{ "s": "DOWNLOADED", "p": [5] }
 ]

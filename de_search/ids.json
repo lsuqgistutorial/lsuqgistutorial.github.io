@@ -7,5 +7,11 @@
 	"6": ["Read and Agree with QGIS Licesne Agreement ", "read_and_agree_with_qgis_licesne_agreement_.htm"],
 	"7": ["Destination Folder Selection", "destination_folder_selection.htm"],
 	"8": ["QGIS Installation Components", "qgis_installation_components.htm"],
-	"9": ["Installation Final Window", "installation_final_window.htm"]
+	"9": ["Installation Final Window", "installation_final_window.htm"],
+	"10": ["QGIS Window - What is in there?", "qgis_window___what_is_in_there_.htm"],
+	"11": ["Adding Google Maps Backgroud Layer", "adding_google_maps_backgroud_layer.htm"],
+	"12": ["Browser Panel Not Showing Fix", "browser_panel_not_showing_fix.htm"],
+	"13": ["Set New Connection", "set_new_connection.htm"],
+	"14": ["XYZ Connection window", "xyz_connection_window.htm"],
+	"15": ["", "_.htm"]
 }
